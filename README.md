@@ -128,8 +128,8 @@ Raw Data (Kaggle CSVs)
 | Resource | Link |
 |---|---|
 | 📊 Tableau Dashboard | [View on Tableau Public](https://public.tableau.com/app/profile/aditya.guleria7085/viz/OlistBrazilianE-CommerceAnalysis_17828384122880/PricingIntelligence) |
-| 📓 Kaggle Notebook | *Coming soon* |
-| 📋 Google Sheets KPI Tracker | *Add your link here* |
+| 📓 Kaggle Notebook | [Notebook link](https://www.kaggle.com/code/adityafx7/olist-e-commerce-end-to-end-analytics) |
+| 📋 Google Sheets KPI Tracker | [Spreadsheet link](https://docs.google.com/spreadsheets/d/1umnHgzXAKBrNLNqh7wnHNRFFRkVdEFCjXMxnnbiXb98/edit?usp=sharing) |
 | 📦 Dataset | [Olist Brazilian E-Commerce (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) |
 
 ---
@@ -211,5 +211,3 @@ Built by **Aditya Guleria** — Data Analyst specialising in e-commerce analytic
 - 💼 Targeting: Data Analyst · Growth Analyst · Pricing Analyst roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Tableau Public](https://img.shields.io/badge/Tableau-Portfolio-lightblue?logo=tableau)](https://public.tableau.com/app/profile/aditya.guleria7085/vizzes)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Notebooks-orange?logo=kaggle)](https://kaggle.com/your-username)
