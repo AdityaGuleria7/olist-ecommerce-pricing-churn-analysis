@@ -210,4 +210,4 @@ Built by **Aditya Guleria** — Data Analyst specialising in e-commerce analytic
 - 🎓 B.Tech Computer Science, Jaypee University of Information Technology (2025)
 - 💼 Targeting: Data Analyst · Growth Analyst · Pricing Analyst roles
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]([https://www.linkedin.com/in/aditya-guleria-7736bb26b/])
