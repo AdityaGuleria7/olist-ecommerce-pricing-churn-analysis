@@ -1,0 +1,7 @@
+computers_accessories | High satisfaction - inconsistent pricing | Implement a price normalization strategy to reduce inconsistent pricing and improve customer trust, considering the high average review score of 4.3. 
+
+furniture_decor | Low satisfaction - premium priced | Reduce prices by 10-15% to better align with customer expectations and improve overall satisfaction, given the low average review score of 3.4.
+
+telephony | High volume but poor reviews | Introduce a quality control process to address poor reviews, and consider offering discounts or bundled deals to incentivize sales and improve customer satisfaction.
+
+health_beauty | Monitor | Closely monitor pricing and customer feedback in this category, as the high average review score of 4.4 suggests a fragile equilibrium that may require adjustments to maintain customer satisfaction.
