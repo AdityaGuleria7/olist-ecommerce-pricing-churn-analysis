@@ -1,0 +1,5 @@
+The most valuable segment is Loyal Customers, with 9,643 customers generating $1,911,972 in total revenue. Their value is driven by their high average revenue per order ($198.30) and frequent purchases (avg 1.1 orders).
+
+The biggest churn risk is the At-Risk segment, with 18,420 customers who haven't purchased in an average of 312 days. To retain them, we recommend a targeted email campaign offering personalised discounts and promotions to win them back.
+
+We suggest offering a 10% discount to Recent Customers (14,892 customers) on their next purchase within 30 days to encourage repeat business and increase average order value. This campaign can potentially increase total revenue from this segment by 10%.
